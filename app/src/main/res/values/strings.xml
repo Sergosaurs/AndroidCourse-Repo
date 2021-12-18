@@ -1,9 +1,11 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Monster Corporation</string>
     <string name="from_maakj">From Maakj!</string>
     <string name="first_mike">First Mike</string>
     <string name="second_mike">Second Mike</string>
     <string name="michael">Michael</string>
     <string name="mike">«Mike»</string>
     <string name="wazowski">Wazowski</string>
+    <string name="monster">Monster</string>
+    <string name="corporation">Corporation</string>
 </resources>
